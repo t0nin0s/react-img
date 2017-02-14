@@ -1,0 +1,38 @@
+.header {
+  background: #0a0a0a;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: var(--site-width);
+  margin: 0 auto;
+}
+
+.title{
+  color: #fbf8f8;
+  font-size: 3rem;
+  padding-left: 0.5rem;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding-right: 0.5rem;
+}
+
+.list-item {
+
+}
+
+.link {
+  color: #7F7F7F;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.link:focus,
+.link:hover {
+  color: #fbf8f8;
+}

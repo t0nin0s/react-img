@@ -1,0 +1,17 @@
+exports[`test Player component renders as expected 1`] = `
+<div
+  className="player">
+  <span
+    className="name">
+    Mark
+     
+    Steven
+  </span>
+  <span
+    className="country">
+     (
+    UK
+    )
+  </span>
+</div>
+`;

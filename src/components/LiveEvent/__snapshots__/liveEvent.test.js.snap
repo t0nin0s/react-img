@@ -1,0 +1,39 @@
+exports[`test LiveEvent component renders as expected 1`] = `
+<div
+  className="liveEvent">
+  <div
+    className="info">
+    Now Live:
+    <span
+      className="tournamentName">
+       
+      UK Cup
+    </span>
+     Started at: 
+    <span
+      className="time">
+      11:00+01:00
+       (
+      10:00
+       UK Time)
+    </span>
+  </div>
+  <div
+    className="draw">
+    <Player
+      country="UK"
+      firstName="Mark"
+      id={2}
+      lastName="Steven" />
+    <span
+      className="vs">
+      VS
+    </span>
+    <Player
+      country="BRZ"
+      firstName="Marcos"
+      id={3}
+      lastName="Steven" />
+  </div>
+</div>
+`;

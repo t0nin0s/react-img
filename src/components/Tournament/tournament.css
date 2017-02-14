@@ -1,0 +1,22 @@
+.container {
+  background: white;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  background: #2959A6;
+  padding: 1.2rem;
+}
+
+.tournament-name {
+
+}

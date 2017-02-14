@@ -1,0 +1,6 @@
+exports[`test App component should render as expected 1`] = `
+<div>
+  <Header />
+  <Connect(TournamentsContainer) />
+</div>
+`;

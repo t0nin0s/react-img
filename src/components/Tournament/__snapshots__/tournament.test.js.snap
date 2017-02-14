@@ -1,0 +1,32 @@
+exports[`test Tournament component renders as expected 1`] = `
+<div
+  className="container">
+  <div>
+    <h2
+      className="title">
+      Tournament id: 
+      868
+    </h2>
+    <LiveEvent
+      id="2016-11-MS02"
+      p1={
+        Object {
+          "country": "UK",
+          "firstName": "Mark",
+          "id": 2,
+          "lastName": "Steven",
+        }
+      }
+      p2={
+        Object {
+          "country": "BRZ",
+          "firstName": "Marcos",
+          "id": 3,
+          "lastName": "Steven",
+        }
+      }
+      time="11:00+01:00"
+      tournamentName="UK Cup" />
+  </div>
+</div>
+`;

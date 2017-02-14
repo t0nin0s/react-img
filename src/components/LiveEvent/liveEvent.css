@@ -1,0 +1,29 @@
+.liveEvent {
+  padding: 1.5rem;
+  margin: 1.5rem;
+}
+
+.liveEvent:not(:last-child) {
+  border-bottom: 1px solid black;
+}
+
+.info {
+  font-size: 1.2rem;
+  padding-bottom: 1rem;
+}
+
+.tournamentName{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.draw {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.vs {
+  font-weight: bold;
+  font-size: 1.5rem;
+}

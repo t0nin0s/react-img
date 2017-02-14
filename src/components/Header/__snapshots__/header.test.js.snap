@@ -1,0 +1,25 @@
+exports[`test Header component renders as expected 1`] = `
+<header
+  className="header">
+  <div
+    className="container">
+    <h1
+      className="title">
+      IMG Test
+    </h1>
+    <nav>
+      <ul
+        className="list">
+        <li
+          className="listItem">
+          <a
+            className="link"
+            href="#">
+            About
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+`;
